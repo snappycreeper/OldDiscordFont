@@ -36,14 +36,14 @@
     font-family: "Whitney";
     font-style: italic;
     font-weight: 400;
-    src: url(https://discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2"), url("https://ptb.discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2"), url("https://canary.discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2");
+    src: url("https://discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2"), url("https://ptb.discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2"), url("https://canary.discord.com/assets/7f18f1d5ab6ded7cf71bbc1f907ee3d4.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Whitney";
     font-style: normal;
     font-weight: 500;
-    src: url(https://discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2"), url("https://ptb.discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2"), url("https://canary.discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2");
+    src: url("https://discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2"), url("https://ptb.discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2"), url("https://canary.discord.com/assets/cf4a8a10bbdf9b775fad41e0b9921c84.woff2") format("woff2");
 }
 
 @font-face {
