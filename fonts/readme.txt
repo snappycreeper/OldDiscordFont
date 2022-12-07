@@ -1,6 +1,6 @@
 These fonts are directly downloaded from discord's website.
 
-I uploaded them here incase discord deletes them from their website.
+I uploaded them here in case discord deletes them from their website.
 
 https://discord.com/assets/46933da896ba96126074286056614542.woff2
 https://discord.com/assets/1651ce6325c0da043476ace0bec3971b.woff2
