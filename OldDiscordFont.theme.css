@@ -5,6 +5,7 @@
 * @version 1.0.1
 * @source https://github.com/snappycreeper/OldDiscordFont
 */
+@import url('https://github.com/snappycreeper/OldDiscordFont/blob/main/OldDiscordFont.theme.css');
 
 :root {
     --font-primary: "Whitney", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
